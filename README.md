@@ -11,7 +11,11 @@ The purpose of this project is to refactor the original macro to use less memory
 [VBA Challenge Workbook](./VBA_Challenge.xlsm).  
 
 ### Stock Performance Between 2017 and 2018
-
+2017 All Stock Analysis
+![2017StockAnalysis](./Resources/2017StockAnalysis.PNG)
+  
+2018 All Stock Analysis
+![2018StockAnalysis](./Resources/2018StockAnalysis.PNG)
 
 ### Exectution Time Comparison
 
