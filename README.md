@@ -13,6 +13,8 @@ The purpose of this project is to refactor the original macro to use less memory
 [VBA Challenge Workbook](./VBA_Challenge.xlsm).  
 
 ### Stock Performance Between 2017 and 2018
+There were two stocks which had a positive return in both 2017 and 2018: ENPH and RUN. TERP was the only stock that had a negative return both years. All others had a positive return in 2017 and a negative return in 2018.
+  
 #### 2017 All Stock Analysis
 ![2017StockAnalysis](./Resources/2017StockAnalysis.PNG)
   
@@ -20,10 +22,12 @@ The purpose of this project is to refactor the original macro to use less memory
 ![2018StockAnalysis](./Resources/2018StockAnalysis.PNG)
 
 ### Exectution Time Comparison
-Original Macro Execution Time  
+The refactored script runs more than half a second faster than the original macro.
+  
+#### Original Macro Execution Time  
 ![Slow2017](./Resources/VBA_Challenge_2017_Slow.PNG) ![Slow2018](./Resources/VBA_Challenge_2018_Slow.PNG)
   
-Refactored Macro Execution Time  
+#### Refactored Macro Execution Time  
 ![Fast2017](./Resources/VBA_Challenge_2017.PNG) ![Fast2018](./Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
@@ -33,4 +37,3 @@ During the initial process of writing code, there's much more focus on getting i
   
 2. How do these pros and cons apply to refactoring the original VBA script?  
 In this project, refactoring the code allowed for the same data to be analyzed in a shorter amount of time.
-  
