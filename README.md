@@ -28,9 +28,9 @@ Refactored Macro Execution Time
 
 ##Summary
 
-1. What are the advantages or disadvantages of refactoring code?
-  *
+1. What are the advantages or disadvantages of refactoring code?  
+During the initial process of writing code, there's much more focus on getting it to work properly. In many cases this means that efficiency and readability take a hit. By refactoring a script that works the coder can make it more efficient by using or reworking loops and shortening conditionals. In doing this the amount of memory used to run the script can be cut down which could also decrease the amount of time it takes to run. Additionally, the coder can pay more attention to readability and commenting. It takes extra time and effort to do this, but in the long run seems worth it.
   
-2. How do these pros and cons apply to refactoring the original VBA script?
-  *
+2. How do these pros and cons apply to refactoring the original VBA script?  
+In this project, refactoring the code allowed for the same data to be analyzed in a shorter amount of time.
   
